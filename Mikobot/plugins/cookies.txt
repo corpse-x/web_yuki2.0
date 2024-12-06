@@ -1,0 +1,24 @@
+# Netscape HTTP Cookie File 
+# This is a generated file! Do not edit. 
+
+# domain  include_subdomains  path  secure  expiration_date  name  value 
+.youtube.com        TRUE        /        TRUE        1762854652        __Secure-1PSIDCC        AKEyXzVLMJlrcN2hWrOpgJoo6NGbg741tSu-oTTm5HwtazucLgJxXhXVePKnLShTnasD8NQBQg 
+.youtube.com        TRUE        /        TRUE        1762854652        __Secure-3PSIDCC        AKEyXzXXjmPvSPO3SV-Ck2fHcN9ZhvajLbTyQqUOXf0sCXM4lM2cgkIq8bz6wIZW5p0gUYo8Pw 
+.youtube.com        TRUE        /        TRUE        0        YSC        GyFZQMlT_Cw 
+.youtube.com        TRUE        /        TRUE        1765878539        LOGIN_INFO        AFmmF2swRAIgGRP6dzE_weriUkODitE67UGSaz2B4noUohFfUIP09FgCIF8M-3GAcUZ6UKdklRNlXqMTqKFSdgikFaRBSfukP9s9:QUQ3MjNmd2NKdU1DMlA0ZVVaZVp4cmhnZFpwcWw0ZDNtVUFTX0xJWmh2c25PY0hQd3hMWnQzTW9FY05GQkFDNVNFaXd5aXlKYzZjU25nUW9QeUhKZmZ4SHNRTU05cldYR19wUUctOFlDSDJaM2lHNWFtNkRyQjVkYlNwLTEtcjN2U2xrQkp1QUpsMWFUejI4ejhWTnJhMF9NLVQ3QjRsSHNR 
+.youtube.com        TRUE        /        TRUE        1765878535        SAPISID        6rQdLuphrCnnjKNp/A-yKUHeZ2DkHXMY07 
+.youtube.com        TRUE        /        FALSE        1765878535        APISID        X72pG7HCaHhf2sW7/A2E91Wp-mvUe7XHLW 
+.youtube.com        TRUE        /        TRUE        1765878535        __Secure-3PAPISID        6rQdLuphrCnnjKNp/A-yKUHeZ2DkHXMY07 
+.youtube.com        TRUE        /        TRUE        1765878535        __Secure-1PSID        g.a000qAhBbtuO4jEzArZU-ZhZd6FSYHN6OlOV3-sppkvEAvAV0Nlcc0dfo6IQDJqrIY4jMuAORQACgYKASUSARMSFQHGX2Mic_96R2LR_vMVDI8EVx7k4RoVAUF8yKokIwhQgWVW5INTjhVf8DZO0076 
+.youtube.com        TRUE        /        FALSE        1762854652        SIDCC        AKEyXzXR-ept0AM5IfNKZ8wT8bwbElDhC8yoEujah9KkbNHcVIoKQlF1IJtqHDpOrxWg0GpW 
+.youtube.com        TRUE        /        TRUE        1765878535        __Secure-3PSID        g.a000qAhBbtuO4jEzArZU-ZhZd6FSYHN6OlOV3-sppkvEAvAV0NlcEnhmBqXQ0kAtpL0d85DRwwACgYKAYASARMSFQHGX2MihX8HoCn7FhNjwcziQ7MDlhoVAUF8yKqWOu2njXCiN4ItM6rIcziw0076 
+.youtube.com        TRUE        /        TRUE        1762854535        __Secure-1PSIDTS        sidts-CjEBQT4rX_6XAJIOh7SdIx_f1YIPazdQV6F-G80d2VVMDWksLSUFLI9paYyxP7nW6aqYEAA 
+.youtube.com        TRUE        /        FALSE        1765878535        HSID        A2e631iAQ-RZpQ6_I 
+.youtube.com        TRUE        /        TRUE        1765878630        PREF        tz=Asia.Calcutta 
+.youtube.com        TRUE        /        TRUE        1765878535        SSID        AEWY8cL0JluhLgmwc 
+.youtube.com        TRUE        /        TRUE        1746870487        VISITOR_PRIVACY_METADATA        CgJJThIEGgAgXA%3D%3D 
+.youtube.com        TRUE        /        TRUE        1731320287        GPS        1 
+.youtube.com        TRUE        /        TRUE        1765878535        __Secure-1PAPISID        6rQdLuphrCnnjKNp/A-yKUHeZ2DkHXMY07 
+.youtube.com        TRUE        /        FALSE        1765878535        SID        g.a000qAhBbtuO4jEzArZU-ZhZd6FSYHN6OlOV3-sppkvEAvAV0NlchDYALl69QANhEUjfqS4MZgACgYKAZISARMSFQHGX2MiCwfGl_SyVNWUB5kwTqGMfRoVAUF8yKqYUBJlmbiufzmrcCaPchBj0076 
+.youtube.com        TRUE        /        TRUE        1762854535        __Secure-3PSIDTS        sidts-CjEBQT4rX_6XAJIOh7SdIx_f1YIPazdQV6F-G80d2VVMDWksLSUFLI9paYyxP7nW6aqYEAA 
+.youtube.com        TRUE        /        TRUE        1746870487        VISITOR_INFO1_LIVE        hnhRgPsCFGM 
