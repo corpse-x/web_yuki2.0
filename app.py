@@ -1,13 +1,10 @@
 from flask import Flask
-
-app = Flask(__yuki__)
+app = Flask(__name__)
 
 @app.route('/')
-
 def hello_world():
+    return 'Yuki2.0 running'
 
-return 'Yuki2.0 Bot running on Flask'
 
-if __yuki__ == "__main__":
-
-app.run()
+if __name__ == "__main__":
+    app.run()

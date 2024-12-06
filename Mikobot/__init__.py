@@ -250,10 +250,15 @@ async def send_booting_message():
 
 # <================================================= EXTBOT ======================================================>
 loop = asyncio.get_event_loop()
-#loop.run_until_complete(start_web_server())
+
+# Run multiple coroutines simultaneously
 loop.run_until_complete(
-    asyncio.gather(dispatcher.bot.initialize(), send_booting_message()),
-    start_web_server()
+    asyncio.gather(
+        dispatcher.bot.initialize(),
+        send_booting_message(),
+        start_web_server()  # Include this as part of the asyncio.gather
+    )
+)
 )
 # <=======================================================================================================>
 
